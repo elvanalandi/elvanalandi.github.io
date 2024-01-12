@@ -53,7 +53,7 @@ import { IoBookOutline } from "react-icons/io5";
   export const UserData = 
   {
     githubUsername: "elvanalandi",
-    token: "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"
+    token: "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"
   };
   
   export const SkillData = [
