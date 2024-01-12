@@ -17,7 +17,8 @@ const getLatestRepos = async (): Promise<Repo[]> => {
           `https://api.github.com/search/repositories?q=user:${username}&sort=updated&direction=desc`,
           {
             headers: {
-              Authorization: `token ${token}`,
+              'Content-Type': 'application/json',
+              'Authorization': 'Bearer '+token,
             },
           }
         );
