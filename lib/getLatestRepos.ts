@@ -33,6 +33,7 @@ const getLatestRepos = async (): Promise<Repo[]> => {
         return latestFourRepos;
       }
     } catch (err) {
+      console.log(err);
       return [];
     }
   };
