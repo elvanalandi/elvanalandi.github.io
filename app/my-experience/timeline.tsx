@@ -3,6 +3,55 @@ import React, { useRef, useEffect, useState } from "react";
 import Modal from "react-modal";
 import timelineData from "@/constants";
 import { useIsVisible } from "./transition";
+import Image from "next/image";
+
+interface TimelineElement {
+    id: string;
+    color: string;
+    date: string;
+    icon: string;
+    title: string;
+    location: string;
+    description: string;
+    keyResponsibilities: string[];
+    buttonText: string;
+}
+
+interface TimelineItemProps {
+    element: TimelineElement;
+    itemRef: React.RefObject<HTMLDivElement>;
+    onButtonClick: (responsibilities: string[] | undefined) => void;
+}
+
+const TimelineItem: React.FC<TimelineItemProps> = ({ element, itemRef, onButtonClick }) => {
+    const isVisible = useIsVisible(itemRef);
+    const defaultColor = "bg-cyan-500";
+    const color = `${element.color}`;
+
+    return (
+        <div ref={itemRef} className={`transition-opacity ease-in duration-700 ${isVisible ? "opacity-100" : "opacity-0"}`}>
+            <div className="flex m-4 relative">
+                {/* <div className={`${defaultColor} w-0.5 h-6 translate-x-20 translate-y-56 opacity-60 sm:hidden`}></div>
+                <div className={`${defaultColor} w-0.5 h-6 translate-x-80 translate-y-56 opacity-60 sm:hidden`}></div> */}
+                <div className="hidden items-start w-60 pt-0.5 relative sm:flex">
+                    <div className="w-4/5 text-gray-500">{element.date}</div>
+                    <div className={`${defaultColor} w-px h-full translate-x-5 translate-y-10 opacity-30`}></div>
+                    <Image src={element.icon} alt="icon" className={`${color} p-1 rounded-lg z-10`} width={40} height={40} />
+                    <div className={`${defaultColor} h-px w-8 translate-y-5 opacity-30`}></div>
+                </div>
+                <div className="border border-gray-600 rounded-lg px-8 py-4 bg-gray-800 w-full text-center z-10 sm:w-96">
+                    <div className="text-xl font-medium">{element.title}</div>
+                    <div className="text-gray-300 mb-6 sm:mb-4 sm:text-base">
+                        {element.location} 
+                        <span className="sm:hidden"> {element.date} </span>
+                    </div>
+                    <div className="mb-4 text-center">{element.description}</div>
+                    <button className={`${color} text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`} onClick={() => onButtonClick(element.keyResponsibilities)}>{element.buttonText}</button>
+                </div>
+            </div>
+        </div>
+    );
+};
 
 const Timeline = () => {
     const refs = useRef([]);
@@ -23,34 +72,13 @@ const Timeline = () => {
     return (
     <div className={`overflow-y-scroll ${modalIsOpen ? 'blur-md' : ''}`}>
       {timelineData.map((element, index) => {
-            const defaultColor = "bg-cyan-500";
-            const color = `${element.color}`;
-
-            // Use the ref from the refs array
-            const isVisible = useIsVisible(refs.current[index]);
-
             return (
-                <React.Fragment key={element.id}>
-                        <div ref={refs.current[index]} className={`transition-opacity ease-in duration-700 ${isVisible ? "opacity-100" : "opacity-0"}`}>
-                            <div className="flex m-4 relative">
-                                <div className="hidden items-start w-60 pt-0.5 relative sm:flex">
-                                    <div className="w-4/5 text-gray-500">{element.date}</div>
-                                    <div className={`${defaultColor} w-px h-full translate-x-5 translate-y-10 opacity-30`}></div>
-                                    <img src={element.icon} alt="icon" className={`${color} w-10 p-1 rounded-lg z-10`} />
-                                    <div className={`${defaultColor} h-px w-8 translate-y-5 opacity-30`}></div>
-                                </div>
-                                <div className="border border-gray-600 rounded-lg px-8 py-4 bg-gray-800 w-full text-center z-10 sm:w-96">
-                                    <div className="text-xl font-medium">{element.title}</div>
-                                    <div className="text-gray-300 mb-6 sm:mb-4 sm:text-base">
-                                        {element.location} 
-                                        <span className="sm:hidden"> {element.date} </span>
-                                    </div>
-                                    <div className="mb-4 text-center">{element.description}</div>
-                                    { element.buttonText && <button className={`${color} text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`} onClick={() => openModal(element.keyResponsibilities)}>{element.buttonText}</button> }
-                                </div>
-                            </div>
-                        </div>
-                </React.Fragment>
+                <TimelineItem
+                    key={element.id}
+                    element={element}
+                    itemRef={refs.current[index]}
+                    onButtonClick={openModal}
+                />
             );
         })}
 
