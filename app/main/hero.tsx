@@ -15,11 +15,11 @@ const Hero = () => {
       animate="visible"
       className="flex flex-row items-center justify-center px-20 mt-40 ml-2/5 w-full z-[20]"
     >
-      <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start">
+      <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start container bg-gray-950 rounded-lg">
 
         <motion.div
           variants={slideInFromLeft(0.5)}
-          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
+          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto p-4"
         >
           <span>
             Journey in the
@@ -32,7 +32,7 @@ const Hero = () => {
 
         <motion.p
           variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400 my-5 max-w-[600px]"
+          className="text-lg text-gray-400 my-5 max-w-[600px] p-4"
         >
           Discover my journey in the IT world, where I blend software development, web creation, and a keen interest in cybersecurity. Explore my diverse projects in the ever-evolving landscape of technology.
         </motion.p>

@@ -199,7 +199,7 @@ import { IoBookOutline } from "react-icons/io5";
       buttonText: "Details",
       date: "05/2019 - 07/2019",
       icon: "/assets/timeline/work.svg",
-      color: "bg-cyan-500",
+      color: 0,
     },
     {
       id: "T2",
@@ -210,7 +210,7 @@ import { IoBookOutline } from "react-icons/io5";
       buttonText: "",
       date: "08/2016 - 08/2020",
       icon: "/assets/timeline/school.svg",
-      color: "bg-yellow-500",
+      color: 1,
     },
     {
       id: "T3",
@@ -225,7 +225,7 @@ import { IoBookOutline } from "react-icons/io5";
       buttonText: "Details",
       date: "03/2021 - 05/2021",
       icon: "/assets/timeline/work.svg",
-      color: "bg-cyan-500",
+      color: 0,
     },
     {
       id: "T4",
@@ -240,7 +240,7 @@ import { IoBookOutline } from "react-icons/io5";
       buttonText: "Details",
       date: "05/2021 - 09/2021",
       icon: "/assets/timeline/work.svg",
-      color: "bg-cyan-500",
+      color: 0,
     },
     {
       id: "T5",
@@ -255,7 +255,7 @@ import { IoBookOutline } from "react-icons/io5";
       buttonText: "Details",
       date: "08/2023 - 10/2023",
       icon: "/assets/timeline/work.svg",
-      color: "bg-cyan-500",
+      color: 0,
     },  
     {
       id: "T6",
@@ -266,7 +266,7 @@ import { IoBookOutline } from "react-icons/io5";
       buttonText: "",
       date: "08/2022 - 08/2024",
       icon: "/assets/timeline/school.svg",
-      color: "bg-yellow-500",
+      color: 1,
     }, 
   ];
 

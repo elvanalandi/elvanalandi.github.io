@@ -7,7 +7,7 @@ import Image from "next/image";
 
 interface TimelineElement {
     id: string;
-    color: string;
+    color: number;
     date: string;
     icon: string;
     title: string;
@@ -26,7 +26,10 @@ interface TimelineItemProps {
 const TimelineItem: React.FC<TimelineItemProps> = ({ element, itemRef, onButtonClick }) => {
     const isVisible = useIsVisible(itemRef);
     const defaultColor = "bg-cyan-500";
-    const color = `${element.color}`;
+    const colors = [
+        "bg-cyan-500",
+        "bg-yellow-500",
+    ]
 
     return (
         <div ref={itemRef} className={`transition-opacity ease-in duration-700 ${isVisible ? "opacity-100" : "opacity-0"}`}>
@@ -36,7 +39,7 @@ const TimelineItem: React.FC<TimelineItemProps> = ({ element, itemRef, onButtonC
                 <div className="hidden items-start w-60 pt-0.5 relative sm:flex">
                     <div className="w-4/5 text-gray-500">{element.date}</div>
                     <div className={`${defaultColor} w-px h-full translate-x-5 translate-y-10 opacity-30`}></div>
-                    <Image src={element.icon} alt="icon" className={`${color} p-1 rounded-lg z-10`} width={40} height={40} />
+                    <Image src={element.icon} alt="icon" className={`${colors[element.color]} p-1 rounded-lg z-10`} width={40} height={40} />
                     <div className={`${defaultColor} h-px w-8 translate-y-5 opacity-30`}></div>
                 </div>
                 <div className="border border-gray-600 rounded-lg px-8 py-4 bg-gray-800 w-full text-center z-10 sm:w-96">
@@ -46,7 +49,9 @@ const TimelineItem: React.FC<TimelineItemProps> = ({ element, itemRef, onButtonC
                         <span className="sm:hidden"> {element.date} </span>
                     </div>
                     <div className="mb-4 text-center">{element.description}</div>
-                    <button className={`${color} text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`} onClick={() => onButtonClick(element.keyResponsibilities)}>{element.buttonText}</button>
+                    {element.buttonText && 
+                    <button className={`${colors[element.color]} text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`} onClick={() => onButtonClick(element.keyResponsibilities)}>{element.buttonText}</button>
+                    }
                 </div>
             </div>
         </div>
@@ -71,16 +76,14 @@ const Timeline = () => {
 
     return (
     <div className={`overflow-y-scroll ${modalIsOpen ? 'blur-md' : ''}`}>
-      {timelineData.map((element, index) => {
-            return (
-                <TimelineItem
-                    key={element.id}
-                    element={element}
-                    itemRef={refs.current[index]}
-                    onButtonClick={openModal}
-                />
-            );
-        })}
+      {timelineData.map((element, index) => (
+            <TimelineItem
+                key={index}
+                element={element}
+                itemRef={refs.current[index]}
+                onButtonClick={openModal}
+            />
+        ))}
 
         {/* Modal */}
         <Modal
