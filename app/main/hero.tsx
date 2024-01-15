@@ -15,7 +15,7 @@ const Hero = () => {
       animate="visible"
       className="flex flex-row items-center justify-center px-20 mt-40 ml-2/5 w-full z-[20]"
     >
-      <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start container bg-gray-950 rounded-lg">
+      <motion.div variants={slideInFromLeft(0.2)} className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start container bg-gray-950 rounded-lg">
 
         <motion.div
           variants={slideInFromLeft(0.5)}
@@ -36,7 +36,7 @@ const Hero = () => {
         >
           Discover my journey in the IT world, where I blend software development, web creation, and a keen interest in cybersecurity. Explore my diverse projects in the ever-evolving landscape of technology.
         </motion.p>
-      </div>
+      </motion.div>
 
       <motion.div
         variants={slideInFromRight(0.8)}
