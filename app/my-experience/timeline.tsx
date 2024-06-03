@@ -94,7 +94,7 @@ const Timeline = () => {
             overlayClassName="fixed inset-0 bg-black bg-opacity-60 backdrop-filter backdrop-blur-sm"
         >
             {currentElement && (
-                <div className="w-2/5 bg-white p-6 rounded-lg shadow-xl justify-center items-center">
+                <div className="w-4/5 md:w-2/5 bg-white p-6 rounded-lg shadow-xl justify-center items-center h-3/5 md:h-auto overflow-y-scroll">
                     <h1 className="font-semibold font-[20px]">Key Responsibilities</h1>
                     <ul className="list-disc">
                         {currentElement.map((item, index) => (
@@ -103,7 +103,7 @@ const Timeline = () => {
                             </li>
                         ))}
                     </ul>
-                    <button className={`flex bg-cyan-400 text-gray-950 font-medium px-4 py-2 rounded-md mx-auto mt-2 cursor-pointer hover:text-white`} onClick={closeModal}>Close</button>
+                    <button className={`flex bg-cyan-400 text-gray-950 font-medium px-4 py-2 rounded-md mx-auto mt-2 cursor-pointer hover:text-white z-100`} onClick={closeModal}>Close</button>
                 </div>
             )}
         </Modal>

@@ -31,10 +31,10 @@ const Sidebar = () => {
     }
   }, [isRouting]);
   return (
-    <div className="fixed right-8 top-[40%] z-[20] h-[200px] w-[48px] rounded-full bg-gray-500 bg-opacity-50">
+    <div className="fixed right-2 md:right-8 top-[40%] z-[20] h-[120px] md:h-[200px] w-[24px] md:w-[48px] mt-10 md:mt-0 rounded-full bg-gray-500 bg-opacity-50">
       <AnimatePresence initial={false}>
         {isRouting && <Transition />}
-        <div className="flex flex-col gap-5 pb-3 justify-center items-center h-full">
+        <div className="flex flex-col gap-3 md:gap-5 pb-3 justify-center items-center h-full">
           {NavLinks.map((link) => (
             <Link
               key={link.id}
@@ -42,7 +42,7 @@ const Sidebar = () => {
               onClick={() => setIsActive(link.name)}
             >
               <link.icon
-                className={`w-[28px] h-[28px] ${
+                className={`w-[14px] md:w-[28px] h-[14px] md:h-[28px] ${
                   isActive === link.name ? "text-orange-500" : "text-white"
                 }`}
               />
