@@ -1,1 +1,273 @@
-function _0x1fb2(_0x5b56b6,_0x52ba66){const _0x38fec8=_0x38fe();return _0x1fb2=function(_0x1fb233,_0x2370b4){_0x1fb233=_0x1fb233-0x1a9;let _0x287a7e=_0x38fec8[_0x1fb233];return _0x287a7e;},_0x1fb2(_0x5b56b6,_0x52ba66);}const _0x27d4b1=_0x1fb2;(function(_0xfcfd5b,_0x54db35){const _0x3bbf7f=_0x1fb2,_0x23c033=_0xfcfd5b();while(!![]){try{const _0x251dec=parseInt(_0x3bbf7f(0x1f3))/0x1*(parseInt(_0x3bbf7f(0x1e4))/0x2)+parseInt(_0x3bbf7f(0x1d0))/0x3+parseInt(_0x3bbf7f(0x1cc))/0x4*(parseInt(_0x3bbf7f(0x1f9))/0x5)+-parseInt(_0x3bbf7f(0x1f0))/0x6+parseInt(_0x3bbf7f(0x1e3))/0x7+parseInt(_0x3bbf7f(0x1bb))/0x8*(parseInt(_0x3bbf7f(0x1bd))/0x9)+parseInt(_0x3bbf7f(0x1aa))/0xa*(-parseInt(_0x3bbf7f(0x1ee))/0xb);if(_0x251dec===_0x54db35)break;else _0x23c033['push'](_0x23c033['shift']());}catch(_0x17d4ec){_0x23c033['push'](_0x23c033['shift']());}}}(_0x38fe,0x910ad));import{RxHome,RxPerson,RxDashboard}from'react-icons/rx';import{IoBookOutline}from'react-icons/io5';export const Socials=[{'name':_0x27d4b1(0x1b0),'src':'/assets/linkedin.svg','link':_0x27d4b1(0x1d8)},{'name':'Email','src':_0x27d4b1(0x1c0),'link':_0x27d4b1(0x1df)}];export const NavLinks=[{'id':'L1','name':_0x27d4b1(0x1e9),'icon':RxHome,'url':'/'},{'id':'L2','name':_0x27d4b1(0x1d4),'icon':RxPerson,'url':'/about-me'},{'id':'L3','name':'Projects','icon':RxDashboard,'url':_0x27d4b1(0x1b9)},{'id':'L4','name':_0x27d4b1(0x1b7),'icon':IoBookOutline,'url':_0x27d4b1(0x1cd)}];export const ProImage={'src':'/assets/projects/card.jpg'};export const UserData={'githubUsername':_0x27d4b1(0x1c9),'token':_0x27d4b1(0x1ef)};export const SkillData=[{'skillName':_0x27d4b1(0x1ca),'image':'/assets/skills/html.png','width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1f6),'image':'/assets/skills/css.png','width':0x50,'height':0x50},{'skillName':'Java\x20Script','image':'/assets/skills/js.png','width':0x41,'height':0x41},{'skillName':'Tailwind\x20Css','image':_0x27d4b1(0x1a9),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1b6),'image':_0x27d4b1(0x1b8),'width':0x50,'height':0x50},{'skillName':'Java','image':_0x27d4b1(0x1e5),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1e0),'image':_0x27d4b1(0x1f2),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1d9),'image':_0x27d4b1(0x1ec),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1d6),'image':'/assets/skills/next.png','width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1e2),'image':_0x27d4b1(0x1ab),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1d7),'image':'/assets/skills/php.svg','width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1c6),'image':_0x27d4b1(0x1ce),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1c5),'image':_0x27d4b1(0x1d2),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1de),'image':_0x27d4b1(0x1c3),'width':0x50,'height':0x50},{'skillName':'Go','image':'/assets/skills/golang.svg','width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1bc),'image':'/assets/skills/aws.svg','width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1ba),'image':_0x27d4b1(0x1be),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1b5),'image':_0x27d4b1(0x1cb),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1f4),'image':_0x27d4b1(0x1d5),'width':0x50,'height':0x50},{'skillName':'TryHackMe','image':_0x27d4b1(0x1af),'width':0x50,'height':0x50},{'skillName':_0x27d4b1(0x1bf),'image':'/assets/skills/wireshark.png','width':0x50,'height':0x50}];const timelineData=[{'id':'T1','title':_0x27d4b1(0x1d1),'location':_0x27d4b1(0x1f8),'description':_0x27d4b1(0x1ed),'keyResponsibilities':[_0x27d4b1(0x1da),_0x27d4b1(0x1d3),_0x27d4b1(0x1ae)],'buttonText':_0x27d4b1(0x1f1),'date':_0x27d4b1(0x1eb),'icon':'/assets/timeline/work.svg','color':0x0},{'id':'T2','title':_0x27d4b1(0x1e6),'location':'Petra\x20Christian\x20University,\x20Surabaya','description':_0x27d4b1(0x1f7),'keyResponsibilities':[],'buttonText':'','date':_0x27d4b1(0x1c8),'icon':_0x27d4b1(0x1b4),'color':0x1},{'id':'T3','title':'Freelance\x20Web\x20Developer','location':_0x27d4b1(0x1dd),'description':_0x27d4b1(0x1e8),'keyResponsibilities':['Aligned\x20website\x20development\x20with\x20clients\x27\x20specifications',_0x27d4b1(0x1ea),_0x27d4b1(0x1ac)],'buttonText':_0x27d4b1(0x1f1),'date':_0x27d4b1(0x1e7),'icon':'/assets/timeline/work.svg','color':0x0},{'id':'T4','title':_0x27d4b1(0x1dc),'location':_0x27d4b1(0x1ad),'description':_0x27d4b1(0x1c1),'keyResponsibilities':['Completed\x20code\x20debugging\x20and\x20implemented\x20fixes\x20to\x20resolve\x20problems\x20based\x20on\x20the\x20priority\x20system',_0x27d4b1(0x1c4),'Conducted\x20testing\x20on\x20the\x20website\x20before\x20deployment\x20into\x20production\x20stage'],'buttonText':_0x27d4b1(0x1f1),'date':_0x27d4b1(0x1b3),'icon':_0x27d4b1(0x1c7),'color':0x0},{'id':'T5','title':_0x27d4b1(0x1b2),'location':'Digital\x20Innovation\x20Lab,\x20Swinburne\x20University','description':_0x27d4b1(0x1fa),'keyResponsibilities':[_0x27d4b1(0x1e1),_0x27d4b1(0x1db),_0x27d4b1(0x1b1)],'buttonText':'Details','date':'08/2023\x20-\x2010/2023','icon':_0x27d4b1(0x1c7),'color':0x0},{'id':'T6','title':'Master\x20of\x20Cyber\x20Security','location':_0x27d4b1(0x1f5),'description':_0x27d4b1(0x1f7),'keyResponsibilities':[],'buttonText':'','date':_0x27d4b1(0x1cf),'icon':_0x27d4b1(0x1b4),'color':0x1}];function _0x38fe(){const _0x212d66=['LinkedIn','Thoroughly\x20documented\x20all\x20aspects\x20of\x20the\x20project\x20for\x20future\x20reference\x20and\x20knowledge\x20transfer','Technical\x20Support\x20Developer\x20Intern','05/2021\x20-\x2009/2021','/assets/timeline/school.svg','Oracle\x20Cloud','React','Experience','/assets/skills/react.png','/my-projects','Oracle','2392WGUpkM','AWS','26973njAgkL','/assets/skills/oracle.svg','Wireshark','/assets/email.svg','Managed\x20both\x20back-end\x20and\x20front-end\x20aspects\x20of\x20the\x20software\x20development\x20process','reverse','/assets/skills/bash.svg','Modified\x20existing\x20software\x20systems\x20to\x20enhance\x20performance\x20and\x20add\x20new\x20features','Python','Node\x20js','/assets/timeline/work.svg','08/2016\x20-\x2008/2020','elvanalandi','Html\x205','/assets/skills/oracle-icon.svg','4WvfkxT','/my-experience','/assets/skills/node-js.png','08/2022\x20-\x2006/2024','2956101xtdnpN','Mobile\x20App\x20Developer\x20Intern','/assets/skills/python.svg','Developed\x20mobile\x20application\x20pages\x20based\x20on\x20design\x20requirements\x20from\x20the\x20design\x20team','About\x20me','/assets/skills/htb.svg','Next\x20js\x2013','PHP','https://www.linkedin.com/in/elvan-alandi-46528b206/','Type\x20Script','Collaborated\x20effectively\x20with\x20team\x20members\x20while\x20maintaining\x20a\x20strong\x20sense\x20of\x20individual\x20responsibility','Regularly\x20reported\x20project\x20progress\x20through\x20comprehensive\x20weekly\x20updates','Full\x20Stack\x20Developer','Surabaya,\x20Indonesia','Bash','mailto:elvanalandi@gmail.com','JQuery','Develop\x20the\x20pipeline\x20according\x20to\x20the\x20client\x20requirements','MySQL','3438281ewVYCK','1586756mbfetl','/assets/skills/java.svg','Bachelor\x20of\x20Informatics\x20Engineering','03/2021\x20-\x2005/2021','Developed\x20websites\x20to\x20meet\x20the\x20clients\x27\x20requirements\x20using\x20the\x20Laravel\x20framework\x20and\x20several\x20plugins\x20to\x20support\x20the\x20website\x27s\x20development','Home','Conducted\x20progress\x20meetings\x20with\x20clients\x20to\x20ensure\x20requirements\x20were\x20met','05/2019\x20-\x2007/2019','/assets/skills/ts.png','Developed\x20front-end\x20mobile\x20application\x20using\x20Kotlin\x20programming\x20language','1175977UhyFqr','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','4816848CjZqFb','Details','/assets/skills/jquery.svg','1VVjelj','HackTheBox','Swinburne\x20University\x20of\x20Technology,\x20Melbourne','Css','Completed','PT\x20Multi\x20Innovacia\x20Indonesia','1845050RNVkMy','Developed\x20an\x20edge-cloud\x20pipeline\x20for\x205G-Brimbank\x20project','/assets/skills/tailwind.png','200KFrOkK','/assets/skills/mysql.svg','Implemented\x20effective\x20communication\x20channels\x20to\x20promptly\x20address\x20client\x20inquiries\x20and\x20provide\x20ongoing\x20support','PT\x20Pillar\x20Dinamika\x20Integra','Developed\x20the\x20functionality\x20of\x20the\x20application','/assets/skills/tryhackme.svg'];_0x38fe=function(){return _0x212d66;};return _0x38fe();}export default timelineData[_0x27d4b1(0x1c2)]();
+import {
+    RxHome,
+    RxPerson,
+    RxDashboard
+  } from "react-icons/rx";
+
+import { IoBookOutline } from "react-icons/io5";
+
+  export const Socials = [
+    {
+      name: "LinkedIn",
+      src: "/assets/linkedin.svg",
+      link: "https://www.linkedin.com/in/elvan-alandi-46528b206/"
+    },
+    {
+      name: "Email",
+      src: "/assets/email.svg",
+      link: "mailto:elvanalandi@gmail.com"
+    },
+  ];
+  
+  export const NavLinks = [
+    {
+      id: "L1",
+      name: "Home",
+      icon: RxHome,
+      url: "/",
+    },
+    {
+      id: "L2",
+      name: "About me",
+      icon: RxPerson,
+      url: "/about-me",
+    },
+    {
+      id: "L3",
+      name: "Projects",
+      icon: RxDashboard,
+      url: "/my-projects",
+    },
+    {
+      id: "L4",
+      name: "Experience",
+      icon: IoBookOutline,
+      url: "/my-experience",
+    },
+  ];
+  
+  export const ProImage ={
+      src: "/assets/projects/card.jpg",
+  };
+  
+  export const UserData = 
+  {
+    githubUsername: "elvanalandi",
+    token: "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"
+  };
+  
+  export const SkillData = [
+    {
+      skillName: "Html 5",
+      image: "/assets/skills/html.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Css",
+      image: "/assets/skills/css.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Java Script",
+      image: "/assets/skills/js.png",
+      width: 65,
+      height: 65,
+    },
+    {
+      skillName: "Tailwind Css",
+      image: "/assets/skills/tailwind.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "React",
+      image: "/assets/skills/react.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Java",
+      image: "/assets/skills/java.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "JQuery",
+      image: "/assets/skills/jquery.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Type Script",
+      image: "/assets/skills/ts.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Next js 13",
+      image: "/assets/skills/next.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "MySQL",
+      image: "/assets/skills/mysql.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "PHP",
+      image: "/assets/skills/php.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Node js",
+      image: "/assets/skills/node-js.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Python",
+      image: "/assets/skills/python.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Bash",
+      image: "/assets/skills/bash.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Go",
+      image: "/assets/skills/golang.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "AWS",
+      image: "/assets/skills/aws.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Oracle",
+      image: "/assets/skills/oracle.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Oracle Cloud",
+      image: "/assets/skills/oracle-icon.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "HackTheBox",
+      image: "/assets/skills/htb.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "TryHackMe",
+      image: "/assets/skills/tryhackme.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skillName: "Wireshark",
+      image: "/assets/skills/wireshark.png",
+      width: 80,
+      height: 80,
+    },
+  ];
+
+  const timelineData = [
+    {
+      id: "T1",
+      title: "Mobile App Developer Intern",
+      location: "PT Multi Innovacia Indonesia",
+      description: "Developed front-end mobile application using Kotlin programming language",
+      keyResponsibilities: [
+        "Collaborated effectively with team members while maintaining a strong sense of individual responsibility", 
+        "Developed mobile application pages based on design requirements from the design team",
+        "Developed the functionality of the application",
+      ], 
+      buttonText: "Details",
+      date: "05/2019 - 07/2019",
+      icon: "/assets/timeline/work.svg",
+      color: 0,
+    },
+    {
+      id: "T2",
+      title: "Bachelor of Informatics Engineering",
+      location: "Petra Christian University, Surabaya",
+      description: "",
+      keyResponsibilities: [], 
+      buttonText: "",
+      date: "08/2016 - 08/2020",
+      icon: "/assets/timeline/school.svg",
+      color: 1,
+    },
+    {
+      id: "T3",
+      title: "Freelance Web Developer",
+      location: "Surabaya, Indonesia",
+      description: "Developed websites to meet the clients' requirements using the Laravel framework and several plugins to support the website's development",
+      keyResponsibilities: [
+        "Aligned website development with clients' specifications", 
+        "Conducted progress meetings with clients to ensure requirements were met",
+        "Implemented effective communication channels to promptly address client inquiries and provide ongoing support",
+      ], 
+      buttonText: "Details",
+      date: "03/2021 - 05/2021",
+      icon: "/assets/timeline/work.svg",
+      color: 0,
+    },
+    {
+      id: "T4",
+      title: "Full Stack Developer",
+      location: "PT Pillar Dinamika Integra",
+      description: "Managed both back-end and front-end aspects of the software development process",
+      keyResponsibilities: [
+        "Completed code debugging and implemented fixes to resolve problems based on the priority system", 
+        "Modified existing software systems to enhance performance and add new features",
+        "Conducted testing on the website before deployment into production stage",
+      ], 
+      buttonText: "Details",
+      date: "05/2021 - 09/2021",
+      icon: "/assets/timeline/work.svg",
+      color: 0,
+    },
+    {
+      id: "T5",
+      title: "Technical Support Developer Intern",
+      location: "Digital Innovation Lab, Swinburne University",
+      description: "Developed an edge-cloud pipeline for 5G-Brimbank project",
+      keyResponsibilities: [
+          "Develop the pipeline according to the client requirements", 
+          "Regularly reported project progress through comprehensive weekly updates",
+          "Thoroughly documented all aspects of the project for future reference and knowledge transfer",
+      ],      
+      buttonText: "Details",
+      date: "08/2023 - 10/2023",
+      icon: "/assets/timeline/work.svg",
+      color: 0,
+    },  
+    {
+      id: "T6",
+      title: "Master of Cyber Security",
+      location: "Swinburne University of Technology, Melbourne",
+      description: "",
+      keyResponsibilities: [],      
+      buttonText: "",
+      date: "08/2022 - 08/2024",
+      icon: "/assets/timeline/school.svg",
+      color: 1,
+    }, 
+  ];
+
+  export default timelineData.reverse();
