@@ -76,7 +76,7 @@ const Timeline = () => {
 
     return (
     <div className={`overflow-y-scroll ${modalIsOpen ? 'blur-md' : ''}`}>
-      {timelineData.map((element, index) => (
+      {timelineData.map((element: any, index: number) => (
             <TimelineItem
                 key={index}
                 element={element}
