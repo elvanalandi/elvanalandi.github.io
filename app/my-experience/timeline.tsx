@@ -60,7 +60,7 @@ const TimelineItem: React.FC<TimelineItemProps> = ({ element, itemRef, onButtonC
 
 const Timeline = () => {
     const refs = useRef([]);
-    refs.current = timelineData.map((_, i) => refs.current[i] ?? React.createRef());
+    refs.current = timelineData.map((_: unknown, i: number) => refs.current[i] ?? React.createRef());
 
     const [modalIsOpen, setModalIsOpen] = useState(false);
     const [currentElement, setCurrentElement] = useState<any[]>([]);
