@@ -297,7 +297,7 @@ const timelineData: TimelineEntry[] = [
     description: "Completed",
     keyResponsibilities: [],      
     buttonText: "",
-    date: "08/2022 - 08/2024",
+    date: "08/2022 - 06/2024",
     icon: "/assets/timeline/school.svg",
     color: 1,
   }, 
