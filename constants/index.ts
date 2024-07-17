@@ -1,1 +1,306 @@
-const _0x58bf7e=_0x4bef;function _0x4bef(_0x3002dc,_0x21cbb2){const _0xbe548d=_0xe61b();return _0x4bef=function(_0x47b513,_0x3ac74e){_0x47b513=_0x47b513-0x12a;let _0x457d66=_0xbe548d[_0x47b513];return _0x457d66;},_0x4bef(_0x3002dc,_0x21cbb2);}(function(_0x5a75cf,_0x509ef2){const _0x324524=_0x4bef,_0xcd618a=_0x5a75cf();while(!![]){try{const _0x2ab7a6=parseInt(_0x324524(0x13b))/0x1+-parseInt(_0x324524(0x173))/0x2*(parseInt(_0x324524(0x1c3))/0x3)+parseInt(_0x324524(0x1f2))/0x4*(-parseInt(_0x324524(0x22b))/0x5)+-parseInt(_0x324524(0x21b))/0x6+parseInt(_0x324524(0x1ae))/0x7+-parseInt(_0x324524(0x238))/0x8+-parseInt(_0x324524(0x20d))/0x9*(-parseInt(_0x324524(0x1eb))/0xa);if(_0x2ab7a6===_0x509ef2)break;else _0xcd618a['push'](_0xcd618a['shift']());}catch(_0x2bb127){_0xcd618a['push'](_0xcd618a['shift']());}}}(_0xe61b,0x8ece2));const _0x53be82=(function(){const _0x386b2d=_0x4bef,_0x442cca={'KYfuX':function(_0x5532a4,_0x40d1a4){return _0x5532a4!==_0x40d1a4;},'LyvUt':_0x386b2d(0x27c),'Vchbg':_0x386b2d(0x12c),'EBCVq':function(_0x8d5479,_0x1ff5e5){return _0x8d5479(_0x1ff5e5);},'KiMIH':function(_0x323871,_0x299a59){return _0x323871+_0x299a59;},'SoyKF':function(_0x184038,_0x4f3296){return _0x184038+_0x4f3296;},'oMVIC':_0x386b2d(0x22f)+_0x386b2d(0x213),'GRfmX':_0x386b2d(0x12d)+_0x386b2d(0x17c)+_0x386b2d(0x190)+'\x20)'};let _0x5d9b25=!![];return function(_0x5121b2,_0x18813b){const _0x144fcf=_0x386b2d,_0x39b741={'NnebY':function(_0x5b1014,_0x2124a4){const _0x5ae6aa=_0x4bef;return _0x442cca[_0x5ae6aa(0x244)](_0x5b1014,_0x2124a4);},'NfjYM':function(_0x156d8b,_0x3b5478){const _0x438ca5=_0x4bef;return _0x442cca[_0x438ca5(0x18c)](_0x156d8b,_0x3b5478);},'JHqtu':function(_0x56fa16,_0x2cf24e){const _0x1ba769=_0x4bef;return _0x442cca[_0x1ba769(0x196)](_0x56fa16,_0x2cf24e);},'jMptz':_0x442cca[_0x144fcf(0x27d)],'iLDDE':_0x442cca[_0x144fcf(0x144)]},_0x385fb5=_0x5d9b25?function(){const _0x1062e7=_0x144fcf;if(_0x442cca[_0x1062e7(0x232)](_0x442cca[_0x1062e7(0x222)],_0x442cca[_0x1062e7(0x1bf)])){if(_0x18813b){const _0x17f1d5=_0x18813b[_0x1062e7(0x1e1)](_0x5121b2,arguments);return _0x18813b=null,_0x17f1d5;}}else _0x245b1c=_0x39b741[_0x1062e7(0x1e3)](_0x28fe5f,_0x39b741[_0x1062e7(0x1b8)](_0x39b741[_0x1062e7(0x23f)](_0x39b741[_0x1062e7(0x212)],_0x39b741[_0x1062e7(0x189)]),');'))();}:function(){};return _0x5d9b25=![],_0x385fb5;};}()),_0x43999f=_0x53be82(this,function(){const _0x395fad=_0x4bef,_0x2561a9={'QLYTE':_0x395fad(0x1e8)+'+$'};return _0x43999f[_0x395fad(0x1f9)]()[_0x395fad(0x14a)](_0x2561a9[_0x395fad(0x15d)])[_0x395fad(0x1f9)]()[_0x395fad(0x136)+'r'](_0x43999f)[_0x395fad(0x14a)](_0x2561a9[_0x395fad(0x15d)]);});_0x43999f();const _0x3ac74e=(function(){let _0x38eff5=!![];return function(_0x475f94,_0x153dd1){const _0x2338b1=_0x38eff5?function(){const _0x7b2c55=_0x4bef;if(_0x153dd1){const _0x255e6b=_0x153dd1[_0x7b2c55(0x1e1)](_0x475f94,arguments);return _0x153dd1=null,_0x255e6b;}}:function(){};return _0x38eff5=![],_0x2338b1;};}()),_0x47b513=_0x3ac74e(this,function(){const _0x2bd7a8=_0x4bef,_0x1bb628={'UUnlU':function(_0x56c2c3,_0x4804d3){return _0x56c2c3!==_0x4804d3;},'VMKSP':_0x2bd7a8(0x234),'nPtzH':function(_0x24f6f0,_0xcdad9b){return _0x24f6f0(_0xcdad9b);},'hhGdB':function(_0x2fc653,_0x2ed005){return _0x2fc653+_0x2ed005;},'crsXB':_0x2bd7a8(0x22f)+_0x2bd7a8(0x213),'UyVux':_0x2bd7a8(0x12d)+_0x2bd7a8(0x17c)+_0x2bd7a8(0x190)+'\x20)','UMVvI':function(_0x2e7546,_0x550aa4){return _0x2e7546===_0x550aa4;},'sdXmP':_0x2bd7a8(0x270),'HSCaM':_0x2bd7a8(0x235),'ZkGih':function(_0x42af0c){return _0x42af0c();},'ASfEi':_0x2bd7a8(0x20b),'tWLVI':_0x2bd7a8(0x168),'ydXtP':_0x2bd7a8(0x1df),'PzlOG':_0x2bd7a8(0x132),'KFYID':_0x2bd7a8(0x177),'EWWku':_0x2bd7a8(0x230),'RbQZE':_0x2bd7a8(0x254),'awqpa':function(_0x3d987c,_0x6ca016){return _0x3d987c<_0x6ca016;}},_0x486c40=function(){const _0x43ce61=_0x2bd7a8;let _0x2e6e35;try{if(_0x1bb628[_0x43ce61(0x13c)](_0x1bb628[_0x43ce61(0x180)],_0x1bb628[_0x43ce61(0x180)])){const _0x58e9a3=_0x16abe4[_0x43ce61(0x1e1)](_0x487907,arguments);return _0x47e799=null,_0x58e9a3;}else _0x2e6e35=_0x1bb628[_0x43ce61(0x138)](Function,_0x1bb628[_0x43ce61(0x18e)](_0x1bb628[_0x43ce61(0x18e)](_0x1bb628[_0x43ce61(0x13d)],_0x1bb628[_0x43ce61(0x18d)]),');'))();}catch(_0x37be0b){if(_0x1bb628[_0x43ce61(0x1bc)](_0x1bb628[_0x43ce61(0x184)],_0x1bb628[_0x43ce61(0x20f)])){const _0x4981c7=_0x3ff646[_0x43ce61(0x1e1)](_0x529f08,arguments);return _0x4f3d6e=null,_0x4981c7;}else _0x2e6e35=window;}return _0x2e6e35;},_0x579552=_0x1bb628[_0x2bd7a8(0x16e)](_0x486c40),_0xda7487=_0x579552[_0x2bd7a8(0x142)]=_0x579552[_0x2bd7a8(0x142)]||{},_0x54688f=[_0x1bb628[_0x2bd7a8(0x25e)],_0x1bb628[_0x2bd7a8(0x160)],_0x1bb628[_0x2bd7a8(0x1a2)],_0x1bb628[_0x2bd7a8(0x1b6)],_0x1bb628[_0x2bd7a8(0x263)],_0x1bb628[_0x2bd7a8(0x1c8)],_0x1bb628[_0x2bd7a8(0x163)]];for(let _0x3ef366=0x0;_0x1bb628[_0x2bd7a8(0x1d2)](_0x3ef366,_0x54688f[_0x2bd7a8(0x273)]);_0x3ef366++){const _0x5afb6d=_0x3ac74e[_0x2bd7a8(0x136)+'r'][_0x2bd7a8(0x146)][_0x2bd7a8(0x195)](_0x3ac74e),_0x567226=_0x54688f[_0x3ef366],_0x249ba2=_0xda7487[_0x567226]||_0x5afb6d;_0x5afb6d[_0x2bd7a8(0x1a5)]=_0x3ac74e[_0x2bd7a8(0x195)](_0x3ac74e),_0x5afb6d[_0x2bd7a8(0x1f9)]=_0x249ba2[_0x2bd7a8(0x1f9)][_0x2bd7a8(0x195)](_0x249ba2),_0xda7487[_0x567226]=_0x5afb6d;}});_0x47b513();function _0xe61b(){const _0x5e5ec7=['Details','ills/css.p','ills/pytho','ntegra','iLDDE','ab,\x20Swinbu','Regularly\x20','KiMIH','UyVux','hhGdB','Next\x20js\x2013','rn\x20this\x22)(','e\x20communic','ills/js.pn','responsibi','10/2023','bind','SoyKF','van-alandi','PT\x20Pillar\x20','ts\x20using\x20t','ftware\x20sys','nnovacia\x20I','hark.png','github_pat','reference\x20','\x20clients\x27\x20','ills/next.','ics\x20Engine','ydXtP','ekly\x20updat','sense\x20of\x20i','__proto__','Oracle','Conducted\x20','lopment\x20wi','cts\x20of\x20the','features','05/2019\x20-\x20','Master\x20of\x20','Tailwind\x20C','1016806TVhcTT','sFqSX1oCky','\x20the\x20appli','w.linkedin','th\x20back-en','0aO3s1G8Du','Brimbank\x20p','ills/bash.','PzlOG','meline/wor','NfjYM','PHP','\x20into\x20prod','ages\x20based','UMVvI','\x20requireme','logy,\x20Melb','Vchbg','o\x20meet\x20the','08/2023\x20-\x20','\x27\x20specific','126027VVGDdb','Support\x20De','dge\x20transf','ndonesia','ence','EWWku','resolve\x20pr','d.jpg','\x20and\x20sever','d\x20effectiv','Home','HackTheBox','ering','Implemente','f\x20Informat','awqpa','t\x20inquirie','\x20of\x20Techno','ills/jquer','Aligned\x20we','Petra\x20Chri','Bachelor\x20o','Css','/assets/li','ient\x20requi','bsite\x20deve','07/2019','ndividual\x20','info','front-end\x20','apply','Swinburne\x20','NnebY','reverse','AWS','/assets/pr','ills/tailw','(((.+)+)+)','ystem','/assets/sk','949990HUhTGU','roject\x20pro','Collaborat','cation','ation\x20chan','05/2021','e\x20pipeline','28tXfFCV','stian\x20Univ','\x20on\x20design','\x20Developer','Node\x20js','d\x20and\x20fron','\x20the\x20websi','toString','code\x20debug','rs\x20while\x20m','lity','lication\x20p','ind.png','priority\x20s','developmen','ills/react','University','\x20project\x20f','\x20according','09/2021','ills/tryha','_11AI4IDKI','05/2021\x20-\x20','sing\x20Kotli','ills/java.','log','progress\x20m','243fzZYGv','AoE_pJhSJQ','HSCaM','nts\x20from\x20t','ging\x20and\x20i','jMptz','nction()\x20','Modified\x20e','ielwRz3B96','oud\x20pipeli','Full\x20Stack','Bash','EZ4FUex1yI','mailto:elv','1650966gLCBeh','gress\x20thro','xisting\x20so','y.svg','js.png','ills/golan','Projects','LyvUt','\x20to\x20the\x20cl','reported\x20p','\x20documente','/assets/ti','eetings\x20wi','mobile\x20app','nts\x20were\x20m','Html\x205','307635ejkpQE','vely\x20with\x20','ills/php.s','Experience','return\x20(fu','table','Technical\x20','KYfuX','n.svg','dYDjE','kdpSv','oblems\x20bas','Email','6770488hvEfRW','08/2022\x20-\x20','meline/sch','he\x20design\x20','tems\x20to\x20en','Thoroughly','he\x20Laravel','JHqtu','th\x20clients','ills/node-','sity','ills/html.','EBCVq','Completed\x20','\x20a\x20strong\x20','JQuery','ool.svg','e.svg','Dinamika\x20I','\x20to\x20ensure','t\x20the\x20webs','veloper\x20In','Type\x20Scrip','ite\x27s\x20deve','ersity,\x20Su','\x20framework','ugh\x20compre','roject','trace','03/2021\x20-\x20','hance\x20perf','ed\x20effecti','d\x20all\x20aspe','g.svg','Java\x20Scrip','ne\x20for\x205G-','08/2016\x20-\x20','png','ASfEi','LinkedIn','an\x20edge-cl','Web\x20Develo','d\x20add\x20new\x20','KFYID','\x20fixes\x20to\x20','ing\x20langua','nkedin.svg','nels\x20to\x20pr','g4yvJiz8yj','k.svg','ills/mysql','t\x20process','or\x20future\x20','ress\x20clien','rabaya','Freelance\x20','mOZoX','testing\x20on','-46528b206','length','8E2','ksIUmCrX2H','Python','ills/wires','uction\x20sta','lication\x20u','e-icon.svg','tern','EToin','oMVIC','Mobile\x20App','te\x20before\x20','OwkIO','{}.constru','al\x20plugins','rne\x20Univer','websites\x20t','requiremen','error','ills/oracl','ourne','aintaining','constructo','Indonesia','nPtzH','onality\x20of','the\x20functi','393067DeyCys','UUnlU','crsXB','Managed\x20bo','Oracle\x20Clo','ormance\x20an','mail.com','console','\x20software\x20','GRfmX','08/2024','prototype','Java','mplemented','Cyber\x20Secu','search','deployment','ojects/car','ail.svg','rity','team','\x20to\x20suppor','PT\x20Multi\x20I','rements','s\x20and\x20prov','/about-me','ide\x20ongoin','ills/ts.pn','t-end\x20aspe','About\x20me','g\x20support','https://ww','omptly\x20add','\x20Intern','QLYTE','Surabaya,\x20','Develop\x20th','tWLVI','lopment','.com/in/el','RbQZE','and\x20knowle','analandi@g','ckme.svg','ations','warn','ed\x20on\x20the\x20','ills/aws.s','svg','.png','novation\x20L','ZkGih','/assets/em','.svg','MySQL','team\x20membe','46vBhuny','/my-experi','Digital\x20In','Wireshark','exception','hensive\x20we','ills/htb.s','elvanaland','React','ctor(\x22retu','per','08/2020','n\x20programm','VMKSP','Developed\x20','/my-projec','TryHackMe','sdXmP'];_0xe61b=function(){return _0x5e5ec7;};return _0xe61b();}import{RxHome,RxPerson,RxDashboard}from'react-icons/rx';import{IoBookOutline}from'react-icons/io5';export const Socials=[{'name':_0x58bf7e(0x25f),'src':_0x58bf7e(0x1da)+_0x58bf7e(0x266),'link':_0x58bf7e(0x15a)+_0x58bf7e(0x1b1)+_0x58bf7e(0x162)+_0x58bf7e(0x197)+_0x58bf7e(0x272)+'/'},{'name':_0x58bf7e(0x237),'src':_0x58bf7e(0x16f)+_0x58bf7e(0x14d),'link':_0x58bf7e(0x21a)+_0x58bf7e(0x165)+_0x58bf7e(0x141)}];export const NavLinks=[{'id':'L1','name':_0x58bf7e(0x1cd),'icon':RxHome,'url':'/'},{'id':'L2','name':_0x58bf7e(0x158),'icon':RxPerson,'url':_0x58bf7e(0x154)},{'id':'L3','name':_0x58bf7e(0x221),'icon':RxDashboard,'url':_0x58bf7e(0x182)+'ts'},{'id':'L4','name':_0x58bf7e(0x22e),'icon':IoBookOutline,'url':_0x58bf7e(0x174)+_0x58bf7e(0x1c7)}];export const ProImage={'src':_0x58bf7e(0x1e6)+_0x58bf7e(0x14c)+_0x58bf7e(0x1ca)};export const UserData={'githubUsername':_0x58bf7e(0x17a)+'i','token':_0x58bf7e(0x19d)+_0x58bf7e(0x207)+_0x58bf7e(0x1b3)+_0x58bf7e(0x20e)+_0x58bf7e(0x1af)+_0x58bf7e(0x215)+_0x58bf7e(0x268)+_0x58bf7e(0x275)+_0x58bf7e(0x219)+_0x58bf7e(0x274)};export const SkillData=[{'skillName':_0x58bf7e(0x22a),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x243)+_0x58bf7e(0x25d),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x1d9),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x186)+'ng','width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x25a)+'t','image':_0x58bf7e(0x1ea)+_0x58bf7e(0x192)+'g','width':0x41,'height':0x41},{'skillName':_0x58bf7e(0x1ad)+'ss','image':_0x58bf7e(0x1ea)+_0x58bf7e(0x1e7)+_0x58bf7e(0x1fe),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x17b),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x201)+_0x58bf7e(0x16c),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x147),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x20a)+_0x58bf7e(0x16b),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x247),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x1d5)+_0x58bf7e(0x21e),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x24e)+'t','image':_0x58bf7e(0x1ea)+_0x58bf7e(0x156)+'g','width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x18f),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x1a0)+_0x58bf7e(0x25d),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x171),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x26a)+_0x58bf7e(0x170),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x1b9),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x22d)+'vg','width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x1f6),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x241)+_0x58bf7e(0x21f),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x276),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x187)+_0x58bf7e(0x233),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x218),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x1b5)+_0x58bf7e(0x16b),'width':0x50,'height':0x50},{'skillName':'Go','image':_0x58bf7e(0x1ea)+_0x58bf7e(0x220)+_0x58bf7e(0x259),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x1e5),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x16a)+'vg','width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x1a6),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x133)+_0x58bf7e(0x249),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x13f)+'ud','image':_0x58bf7e(0x1ea)+_0x58bf7e(0x133)+_0x58bf7e(0x27a),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x1ce),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x179)+'vg','width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x183),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x206)+_0x58bf7e(0x166),'width':0x50,'height':0x50},{'skillName':_0x58bf7e(0x176),'image':_0x58bf7e(0x1ea)+_0x58bf7e(0x277)+_0x58bf7e(0x19c),'width':0x50,'height':0x50}];const timelineData=[{'id':'T1','title':_0x58bf7e(0x12a)+_0x58bf7e(0x1f5)+_0x58bf7e(0x15c),'location':_0x58bf7e(0x151)+_0x58bf7e(0x19b)+_0x58bf7e(0x1c6),'description':_0x58bf7e(0x181)+_0x58bf7e(0x1e0)+_0x58bf7e(0x228)+_0x58bf7e(0x279)+_0x58bf7e(0x209)+_0x58bf7e(0x17f)+_0x58bf7e(0x265)+'ge','keyResponsibilities':[_0x58bf7e(0x1ed)+_0x58bf7e(0x257)+_0x58bf7e(0x22c)+_0x58bf7e(0x172)+_0x58bf7e(0x1fb)+_0x58bf7e(0x135)+_0x58bf7e(0x246)+_0x58bf7e(0x1a4)+_0x58bf7e(0x1de)+_0x58bf7e(0x193)+_0x58bf7e(0x1fc),_0x58bf7e(0x181)+_0x58bf7e(0x228)+_0x58bf7e(0x1fd)+_0x58bf7e(0x1bb)+_0x58bf7e(0x1f4)+_0x58bf7e(0x1bd)+_0x58bf7e(0x210)+_0x58bf7e(0x23b)+_0x58bf7e(0x14f),_0x58bf7e(0x181)+_0x58bf7e(0x13a)+_0x58bf7e(0x139)+_0x58bf7e(0x1b0)+_0x58bf7e(0x1ee)],'buttonText':_0x58bf7e(0x185),'date':_0x58bf7e(0x1ab)+_0x58bf7e(0x1dd),'icon':_0x58bf7e(0x226)+_0x58bf7e(0x1b7)+_0x58bf7e(0x269),'color':0x0},{'id':'T2','title':_0x58bf7e(0x1d8)+_0x58bf7e(0x1d1)+_0x58bf7e(0x1a1)+_0x58bf7e(0x1cf),'location':_0x58bf7e(0x1d7)+_0x58bf7e(0x1f3)+_0x58bf7e(0x250)+_0x58bf7e(0x26e),'description':'','keyResponsibilities':[],'buttonText':'','date':_0x58bf7e(0x25c)+_0x58bf7e(0x17e),'icon':_0x58bf7e(0x226)+_0x58bf7e(0x23a)+_0x58bf7e(0x248),'color':0x1},{'id':'T3','title':_0x58bf7e(0x26f)+_0x58bf7e(0x261)+_0x58bf7e(0x17d),'location':_0x58bf7e(0x15e)+_0x58bf7e(0x137),'description':_0x58bf7e(0x181)+_0x58bf7e(0x130)+_0x58bf7e(0x1c0)+_0x58bf7e(0x19f)+_0x58bf7e(0x131)+_0x58bf7e(0x199)+_0x58bf7e(0x23e)+_0x58bf7e(0x251)+_0x58bf7e(0x1cb)+_0x58bf7e(0x12e)+_0x58bf7e(0x150)+_0x58bf7e(0x24c)+_0x58bf7e(0x24f)+_0x58bf7e(0x161),'keyResponsibilities':[_0x58bf7e(0x1d6)+_0x58bf7e(0x1dc)+_0x58bf7e(0x1a8)+_0x58bf7e(0x240)+_0x58bf7e(0x1c2)+_0x58bf7e(0x167),_0x58bf7e(0x1a7)+_0x58bf7e(0x20c)+_0x58bf7e(0x227)+_0x58bf7e(0x240)+_0x58bf7e(0x24b)+_0x58bf7e(0x1bd)+_0x58bf7e(0x229)+'et',_0x58bf7e(0x1d0)+_0x58bf7e(0x1cc)+_0x58bf7e(0x191)+_0x58bf7e(0x1ef)+_0x58bf7e(0x267)+_0x58bf7e(0x15b)+_0x58bf7e(0x26d)+_0x58bf7e(0x1d3)+_0x58bf7e(0x153)+_0x58bf7e(0x155)+_0x58bf7e(0x159)],'buttonText':_0x58bf7e(0x185),'date':_0x58bf7e(0x255)+_0x58bf7e(0x1f0),'icon':_0x58bf7e(0x226)+_0x58bf7e(0x1b7)+_0x58bf7e(0x269),'color':0x0},{'id':'T4','title':_0x58bf7e(0x217)+_0x58bf7e(0x1f5),'location':_0x58bf7e(0x198)+_0x58bf7e(0x24a)+_0x58bf7e(0x188),'description':_0x58bf7e(0x13e)+_0x58bf7e(0x1b2)+_0x58bf7e(0x1f7)+_0x58bf7e(0x157)+_0x58bf7e(0x1a9)+_0x58bf7e(0x143)+_0x58bf7e(0x200)+_0x58bf7e(0x26b),'keyResponsibilities':[_0x58bf7e(0x245)+_0x58bf7e(0x1fa)+_0x58bf7e(0x211)+_0x58bf7e(0x148)+_0x58bf7e(0x264)+_0x58bf7e(0x1c9)+_0x58bf7e(0x236)+_0x58bf7e(0x169)+_0x58bf7e(0x1ff)+_0x58bf7e(0x1e9),_0x58bf7e(0x214)+_0x58bf7e(0x21d)+_0x58bf7e(0x19a)+_0x58bf7e(0x23c)+_0x58bf7e(0x256)+_0x58bf7e(0x140)+_0x58bf7e(0x262)+_0x58bf7e(0x1aa),_0x58bf7e(0x1a7)+_0x58bf7e(0x271)+_0x58bf7e(0x1f8)+_0x58bf7e(0x12b)+_0x58bf7e(0x14b)+_0x58bf7e(0x1ba)+_0x58bf7e(0x278)+'ge'],'buttonText':_0x58bf7e(0x185),'date':_0x58bf7e(0x208)+_0x58bf7e(0x205),'icon':_0x58bf7e(0x226)+_0x58bf7e(0x1b7)+_0x58bf7e(0x269),'color':0x0},{'id':'T5','title':_0x58bf7e(0x231)+_0x58bf7e(0x1c4)+_0x58bf7e(0x24d)+_0x58bf7e(0x27b),'location':_0x58bf7e(0x175)+_0x58bf7e(0x16d)+_0x58bf7e(0x18a)+_0x58bf7e(0x12f)+_0x58bf7e(0x242),'description':_0x58bf7e(0x181)+_0x58bf7e(0x260)+_0x58bf7e(0x216)+_0x58bf7e(0x25b)+_0x58bf7e(0x1b4)+_0x58bf7e(0x253),'keyResponsibilities':[_0x58bf7e(0x15f)+_0x58bf7e(0x1f1)+_0x58bf7e(0x204)+_0x58bf7e(0x223)+_0x58bf7e(0x1db)+_0x58bf7e(0x152),_0x58bf7e(0x18b)+_0x58bf7e(0x224)+_0x58bf7e(0x1ec)+_0x58bf7e(0x21c)+_0x58bf7e(0x252)+_0x58bf7e(0x178)+_0x58bf7e(0x1a3)+'es',_0x58bf7e(0x23d)+_0x58bf7e(0x225)+_0x58bf7e(0x258)+_0x58bf7e(0x1a9)+_0x58bf7e(0x203)+_0x58bf7e(0x26c)+_0x58bf7e(0x19e)+_0x58bf7e(0x164)+_0x58bf7e(0x1c5)+'er'],'buttonText':_0x58bf7e(0x185),'date':_0x58bf7e(0x1c1)+_0x58bf7e(0x194),'icon':_0x58bf7e(0x226)+_0x58bf7e(0x1b7)+_0x58bf7e(0x269),'color':0x0},{'id':'T6','title':_0x58bf7e(0x1ac)+_0x58bf7e(0x149)+_0x58bf7e(0x14e),'location':_0x58bf7e(0x1e2)+_0x58bf7e(0x202)+_0x58bf7e(0x1d4)+_0x58bf7e(0x1be)+_0x58bf7e(0x134),'description':'','keyResponsibilities':[],'buttonText':'','date':_0x58bf7e(0x239)+_0x58bf7e(0x145),'icon':_0x58bf7e(0x226)+_0x58bf7e(0x23a)+_0x58bf7e(0x248),'color':0x1}];export default timelineData[_0x58bf7e(0x1e4)]();
+import {
+  RxHome,
+  RxPerson,
+  RxDashboard
+} from "react-icons/rx";
+
+import { IoBookOutline } from "react-icons/io5";
+
+// Define types for Socials array
+interface Social {
+  name: string;
+  src: string;
+  link: string;
+}
+
+// Define types for NavLinks array
+interface NavLink {
+  id: string;
+  name: string;
+  icon: React.ComponentType<any>; // Adjust the type for icon based on your icon library
+  url: string;
+}
+
+// Define types for SkillData array
+interface Skill {
+  skillName: string;
+  image: string;
+  width: number;
+  height: number;
+}
+
+// Define types for timelineData array
+interface TimelineEntry {
+  id: string;
+  title: string;
+  location: string;
+  description: string;
+  keyResponsibilities: string[];
+  buttonText: string;
+  date: string;
+  icon: string;
+  color: number;
+}
+
+export const Socials: Social[] = [
+  {
+    name: "LinkedIn",
+    src: "/assets/linkedin.svg",
+    link: "https://www.linkedin.com/in/elvan-alandi-46528b206/"
+  },
+  {
+    name: "Email",
+    src: "/assets/email.svg",
+    link: "mailto:elvanalandi@gmail.com"
+  },
+];
+
+export const NavLinks: NavLink[] = [
+  {
+    id: "L1",
+    name: "Home",
+    icon: RxHome,
+    url: "/",
+  },
+  {
+    id: "L2",
+    name: "About me",
+    icon: RxPerson,
+    url: "/about-me",
+  },
+  {
+    id: "L3",
+    name: "Projects",
+    icon: RxDashboard,
+    url: "/my-projects",
+  },
+  {
+    id: "L4",
+    name: "Experience",
+    icon: IoBookOutline,
+    url: "/my-experience",
+  },
+];
+
+export const ProImage ={
+    src: "/assets/projects/card.jpg",
+};
+
+
+const _0x214847=_0x1265;(function(_0x4c175e,_0x176c78){const _0x5bae55=_0x1265,_0x475f7c=_0x4c175e();while(!![]){try{const _0x281ad5=parseInt(_0x5bae55(0x136))/0x1*(parseInt(_0x5bae55(0x137))/0x2)+-parseInt(_0x5bae55(0x130))/0x3*(parseInt(_0x5bae55(0x138))/0x4)+parseInt(_0x5bae55(0x131))/0x5+-parseInt(_0x5bae55(0x13b))/0x6*(parseInt(_0x5bae55(0x13a))/0x7)+parseInt(_0x5bae55(0x132))/0x8+-parseInt(_0x5bae55(0x134))/0x9*(-parseInt(_0x5bae55(0x133))/0xa)+parseInt(_0x5bae55(0x135))/0xb;if(_0x281ad5===_0x176c78)break;else _0x475f7c['push'](_0x475f7c['shift']());}catch(_0x57e4e4){_0x475f7c['push'](_0x475f7c['shift']());}}}(_0x5862,0xec0f2));function _0x1265(_0x2e1606,_0x535e83){const _0x586205=_0x5862();return _0x1265=function(_0x1265a3,_0x25ab63){_0x1265a3=_0x1265a3-0x130;let _0x588f74=_0x586205[_0x1265a3];return _0x588f74;},_0x1265(_0x2e1606,_0x535e83);}function _0x5862(){const _0x241a5d=['elvanalandi','217pnUGLD','273246KxCbLs','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','3pmmrZl','1689490voIwCJ','11133048WEpnxx','230Tbrzvw','165339pfXNMS','7114811fnGOMf','3IVrQbS','867494iCEuOL','6885740yggaXI'];_0x5862=function(){return _0x241a5d;};return _0x5862();}export const UserData={'githubUsername':_0x214847(0x139),'token':_0x214847(0x13c)};
+
+export const SkillData: Skill[] = [
+  {
+    skillName: "Html 5",
+    image: "/assets/skills/html.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Css",
+    image: "/assets/skills/css.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Java Script",
+    image: "/assets/skills/js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    skillName: "Tailwind Css",
+    image: "/assets/skills/tailwind.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "React",
+    image: "/assets/skills/react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Java",
+    image: "/assets/skills/java.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "JQuery",
+    image: "/assets/skills/jquery.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Type Script",
+    image: "/assets/skills/ts.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Next js 13",
+    image: "/assets/skills/next.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "MySQL",
+    image: "/assets/skills/mysql.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "PHP",
+    image: "/assets/skills/php.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Node js",
+    image: "/assets/skills/node-js.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Python",
+    image: "/assets/skills/python.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Bash",
+    image: "/assets/skills/bash.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Go",
+    image: "/assets/skills/golang.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "AWS",
+    image: "/assets/skills/aws.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Oracle",
+    image: "/assets/skills/oracle.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Oracle Cloud",
+    image: "/assets/skills/oracle-icon.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "HackTheBox",
+    image: "/assets/skills/htb.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "TryHackMe",
+    image: "/assets/skills/tryhackme.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Wireshark",
+    image: "/assets/skills/wireshark.png",
+    width: 80,
+    height: 80,
+  },
+];
+
+const timelineData: TimelineEntry[] = [
+  {
+    id: "T1",
+    title: "Mobile App Developer Intern",
+    location: "PT Multi Innovacia Indonesia",
+    description: "Developed front-end mobile application using Kotlin programming language",
+    keyResponsibilities: [
+      "Collaborated effectively with team members while maintaining a strong sense of individual responsibility", 
+      "Developed mobile application pages based on design requirements from the design team",
+      "Developed the functionality of the application",
+    ], 
+    buttonText: "Details",
+    date: "05/2019 - 07/2019",
+    icon: "/assets/timeline/work.svg",
+    color: 0,
+  },
+  {
+    id: "T2",
+    title: "Bachelor of Informatics Engineering",
+    location: "Petra Christian University, Surabaya",
+    description: "Completed",
+    keyResponsibilities: [], 
+    buttonText: "",
+    date: "08/2016 - 08/2020",
+    icon: "/assets/timeline/school.svg",
+    color: 1,
+  },
+  {
+    id: "T3",
+    title: "Freelance Web Developer",
+    location: "Surabaya, Indonesia",
+    description: "Developed websites to meet the clients' requirements using the Laravel framework and several plugins to support the website's development",
+    keyResponsibilities: [
+      "Aligned website development with clients' specifications", 
+      "Conducted progress meetings with clients to ensure requirements were met",
+      "Implemented effective communication channels to promptly address client inquiries and provide ongoing support",
+    ], 
+    buttonText: "Details",
+    date: "03/2021 - 05/2021",
+    icon: "/assets/timeline/work.svg",
+    color: 0,
+  },
+  {
+    id: "T4",
+    title: "Full Stack Developer",
+    location: "PT Pillar Dinamika Integra",
+    description: "Managed both back-end and front-end aspects of the software development process",
+    keyResponsibilities: [
+      "Completed code debugging and implemented fixes to resolve problems based on the priority system", 
+      "Modified existing software systems to enhance performance and add new features",
+      "Conducted testing on the website before deployment into production stage",
+    ], 
+    buttonText: "Details",
+    date: "05/2021 - 09/2021",
+    icon: "/assets/timeline/work.svg",
+    color: 0,
+  },
+  {
+    id: "T5",
+    title: "Technical Support Developer Intern",
+    location: "Digital Innovation Lab, Swinburne University",
+    description: "Developed an edge-cloud pipeline for 5G-Brimbank project",
+    keyResponsibilities: [
+        "Develop the pipeline according to the client requirements", 
+        "Regularly reported project progress through comprehensive weekly updates",
+        "Thoroughly documented all aspects of the project for future reference and knowledge transfer",
+    ],      
+    buttonText: "Details",
+    date: "08/2023 - 10/2023",
+    icon: "/assets/timeline/work.svg",
+    color: 0,
+  },  
+  {
+    id: "T6",
+    title: "Master of Cyber Security",
+    location: "Swinburne University of Technology, Melbourne",
+    description: "Completed",
+    keyResponsibilities: [],      
+    buttonText: "",
+    date: "08/2022 - 08/2024",
+    icon: "/assets/timeline/school.svg",
+    color: 1,
+  }, 
+];
+
+export default timelineData.reverse();
