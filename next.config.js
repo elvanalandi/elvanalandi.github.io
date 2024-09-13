@@ -1,4 +1,6 @@
-const withNextJsObfuscator = require("nextjs-obfuscator")(obfuscatorOptions, pluginOptions);
+import createNextJsObfuscator from "nextjs-obfuscator";
+
+const withNextJsObfuscator = createNextJsObfuscator(obfuscatorOptions, pluginOptions);
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
