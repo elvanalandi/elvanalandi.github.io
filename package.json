@@ -32,7 +32,6 @@
     "eslint-config-next": "14.0.4",
     "framer-motion": "^10.17.6",
     "javascript-obfuscator": "^4.1.1",
-    "mini-css-extract-plugin": "^2.9.1",
     "nextjs-obfuscator": "^3.0.1",
     "postcss": "^8",
     "react-intersection-observer": "^9.5.3",
