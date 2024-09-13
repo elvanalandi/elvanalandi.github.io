@@ -2,9 +2,9 @@ import createNextJsObfuscator from "nextjs-obfuscator";
 
 const withNextJsObfuscator = createNextJsObfuscator(obfuscatorOptions, pluginOptions);
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-    // Your Next.js configuration here
-};
+/** @type {import("next").NextConfig} */
+const nextConfig = withNextJsObfuscator({
   
-module.exports = withNextJsObfuscator(nextConfig);
+});
+
+export default nextConfig;
