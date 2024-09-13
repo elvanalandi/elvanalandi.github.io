@@ -14,7 +14,7 @@ const nextConfig = {
   
       // Temporarily disable mini-css-extract-plugin
       config.module.rules.forEach((rule) => {
-        if (rule.use) {
+        if (Array.isArray(rule.use)) {
           rule.use = rule.use.filter((use) => {
             if (typeof use === 'object' && use.loader && use.loader.includes('mini-css-extract-plugin')) {
               return false;
