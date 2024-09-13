@@ -1,7 +1,18 @@
-const withNextJsObfuscator = require("nextjs-obfuscator")(obfuscatorOptions, pluginOptions);
+const withNextJsObfuscator = require("nextjs-obfuscator");
 
 /** @type {import("next").NextConfig} */
-const nextConfig = withNextJsObfuscator({
-});
+const nextConfig = {
+    reactStrictMode: true,
+};
 
-module.exports = nextConfig;
+module.exports = {
+    webpack:(config,{dev})=>{
+        if(!dev){
+            config.plugins.push(new NextJsObfuscatorPlugin({
+            rotateStringArray: true
+            }))
+        }
+        return config
+    },
+    nextConfig
+};
