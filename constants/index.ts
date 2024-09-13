@@ -86,10 +86,7 @@ export const ProImage ={
     src: "/assets/projects/card.jpg",
 };
 
-export const UserData = {
-  'githubUsername': "elvanalandi",
-  'token': "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"
-};
+const _0x8f4486=_0x435b;function _0x435b(_0x31aee6,_0x22a209){const _0x44aaac=_0x44aa();return _0x435b=function(_0x435bd2,_0x451531){_0x435bd2=_0x435bd2-0x11e;let _0x4d22fd=_0x44aaac[_0x435bd2];return _0x4d22fd;},_0x435b(_0x31aee6,_0x22a209);}(function(_0x5cb8ce,_0x539eb6){const _0x446c4c=_0x435b,_0x4517d8=_0x5cb8ce();while(!![]){try{const _0x1f1381=parseInt(_0x446c4c(0x11e))/0x1*(parseInt(_0x446c4c(0x121))/0x2)+parseInt(_0x446c4c(0x122))/0x3+-parseInt(_0x446c4c(0x127))/0x4*(-parseInt(_0x446c4c(0x11f))/0x5)+parseInt(_0x446c4c(0x126))/0x6+-parseInt(_0x446c4c(0x128))/0x7*(parseInt(_0x446c4c(0x124))/0x8)+parseInt(_0x446c4c(0x123))/0x9*(parseInt(_0x446c4c(0x129))/0xa)+-parseInt(_0x446c4c(0x125))/0xb*(parseInt(_0x446c4c(0x12a))/0xc);if(_0x1f1381===_0x539eb6)break;else _0x4517d8['push'](_0x4517d8['shift']());}catch(_0x19d714){_0x4517d8['push'](_0x4517d8['shift']());}}}(_0x44aa,0x8ffca));function _0x44aa(){const _0x528653=['4697322sSTeJY','4EwJcxq','7gaqvBZ','153040AUxwkU','12SsgfcK','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','88pXXAYY','2306855RoMlfT','elvanalandi','17322DKKMlh','3390303cbCQOv','261hhBOhG','9176792HxVhQg','20278214yKWGwp'];_0x44aa=function(){return _0x528653;};return _0x44aa();}export const UserData={'githubUsername':_0x8f4486(0x120),'token':_0x8f4486(0x12b)};
 
 export const SkillData: Skill[] = [
   {
