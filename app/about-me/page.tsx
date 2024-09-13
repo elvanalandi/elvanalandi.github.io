@@ -14,11 +14,11 @@ const page = () => {
           About me<span className="text-red-500"></span>
         </h1>
         <p className="max-w-[400px] text-sm md:text-base text-gray-200 md:text-gray-400 text-center md:text-left">
-          Hey there! I'm Elvan Alandi, currently pursuing a master's in cybersecurity and exploring this field through self-learning. My journey began in computer and web development, leading me to the exciting world of digital security. I've gained valuable skills and am thrilled to apply them in cybersecurity. In my free time, I enjoy solving Capture The Flag (CTF) challenges, constantly learning and growing in this fascinating field.
+          Hey there! I'm Elvan Alandi, Passionate IT professional with a Master's in Cybersecurity and exploring this field through self-learning and courses. My journey began in computer and web development, leading me to the exciting world of digital security. I've gained valuable skills and am thrilled to apply them in cybersecurity. In my free time, I enjoy solving Capture The Flag (CTF) challenges, creating some projects, constantly learning and growing in this fascinating field.
         </p>
       </div>
     </div>
-    <div className="grid grid-cols-3 md:grid-cols-5 justify-around gap-3 md:gap-5 items-center rounded-md bg-slate-300 p-2 md:p-4 max-w-[90%] md:max-w-[70%] md:mr-40 m-auto overflow-y-scroll md:overflow-hidden">
+    <div className="grid grid-cols-3 md:grid-cols-5 justify-around gap-3 md:gap-5 items-center rounded-md bg-slate-300 p-2 md:p-4 max-w-[70%] md:max-w-[30%] md:mr-40 m-auto overflow-y-scroll md:overflow-hidden">
       {SkillData.map((img, index) => (
         <Skill
           key={index}

@@ -157,12 +157,6 @@ export const SkillData: Skill[] = [
     height: 80,
   },
   {
-    skillName: "Node js",
-    image: "/assets/skills/node-js.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skillName: "Python",
     image: "/assets/skills/python.svg",
     width: 80,
@@ -177,6 +171,18 @@ export const SkillData: Skill[] = [
   {
     skillName: "Go",
     image: "/assets/skills/golang.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "C",
+    image: "/assets/skills/c.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "C++",
+    image: "/assets/skills/c++.png",
     width: 80,
     height: 80,
   },
@@ -213,6 +219,18 @@ export const SkillData: Skill[] = [
   {
     skillName: "Wireshark",
     image: "/assets/skills/wireshark.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Linux",
+    image: "/assets/skills/linux.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skillName: "Windows",
+    image: "/assets/skills/windows.png",
     width: 80,
     height: 80,
   },

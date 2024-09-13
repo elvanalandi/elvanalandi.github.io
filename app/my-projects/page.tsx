@@ -9,7 +9,7 @@ const page = () => {
           Tech projects<span className="text-red-500"></span>
         </h1>
         <p className="text-center text-sm md:text-base text-gray-200 md:text-gray-400">
-          Explore my portfolio projects, showcasing a blend of academic projects, freelance web development, and cybersecurity CTF write-ups. It's a journey through my growth and accomplishments in the evolving world of tech
+          Explore my portfolio, featuring a diverse range of projects including academic works, software development projects, cybersecurity CTF write-ups, and other cybersecurity projects. It's a journey through my growth and accomplishments in the evolving world of tech
         </p>
       </div>
       <div className="w-full max-w-[90%] mt-5 md:mr-20">

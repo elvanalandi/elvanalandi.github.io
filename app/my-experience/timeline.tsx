@@ -75,7 +75,7 @@ const Timeline = () => {
     }
 
     return (
-    <div className={`overflow-y-scroll ${modalIsOpen ? 'blur-md' : ''}`}>
+    <div className={`overflow-y-scroll h-3/4 ${modalIsOpen ? 'blur-md' : ''}`}>
       {timelineData.map((element: any, index: number) => (
             <TimelineItem
                 key={index}
@@ -103,7 +103,7 @@ const Timeline = () => {
                             </li>
                         ))}
                     </ul>
-                    <button className={`flex bg-cyan-400 text-gray-950 font-medium px-4 py-2 rounded-md mx-auto mt-2 cursor-pointer hover:text-white z-100`} onClick={closeModal}>Close</button>
+                    <button className={`flex bg-cyan-400 text-gray-950 font-medium px-4 py-2 rounded-md mx-auto mt-2 cursor-pointer hover:text-white z-50`} onClick={closeModal}>Close</button>
                 </div>
             )}
         </Modal>
