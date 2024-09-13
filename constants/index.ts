@@ -86,52 +86,9 @@ export const ProImage ={
     src: "/assets/projects/card.jpg",
 };
 
-
-const _0x214847 = _0x1265; // Reference to the function
-(function (_0x4c175e, _0x176c78) {
-  const _0x5bae55 = _0x1265;
-  const _0x475f7c = _0x4c175e();
-  while (true) {
-    try {
-      const _0x281ad5 = parseInt(_0x5bae55(0x136)) / 1 * (parseInt(_0x5bae55(0x137)) / 2)
-        + -parseInt(_0x5bae55(0x130)) / 3 * (parseInt(_0x5bae55(0x138)) / 4)
-        + parseInt(_0x5bae55(0x131)) / 5
-        + -parseInt(_0x5bae55(0x13b)) / 6 * (parseInt(_0x5bae55(0x13a)) / 7)
-        + parseInt(_0x5bae55(0x132)) / 8
-        + -parseInt(_0x5bae55(0x134)) / 9 * (-parseInt(_0x5bae55(0x133)) / 10)
-        + parseInt(_0x5bae55(0x135)) / 11;
-      if (_0x281ad5 === _0x176c78) break;
-      else _0x475f7c.push(_0x475f7c.shift());
-    } catch (_0x57e4e4) {
-      _0x475f7c.push(_0x475f7c.shift());
-    }
-  }
-}(_0x5862, 0xec0f2));
-
-function _0x1265(_0x2e1606, _0x535e83) {
-  const _0x586205 = _0x5862();
-  return _0x1265 = function (_0x1265a3, _0x25ab63) {
-    _0x1265a3 = _0x1265a3 - 0x130;
-    let _0x588f74 = _0x586205[_0x1265a3];
-    return _0x588f74;
-  }, _0x1265(_0x2e1606, _0x535e83);
-}
-
-function _0x5862() {
-  const _0x241a5d = [
-    'elvanalandi', '217pnUGLD', '273246KxCbLs', '***', '3pmmrZl', '1689490voIwCJ',
-    '11133048WEpnxx', '230Tbrzvw', '165339pfXNMS', '7114811fnGOMf', '3IVrQbS',
-    '867494iCEuOL', '6885740yggaXI'
-  ];
-  _0x5862 = function () {
-    return _0x241a5d;
-  };
-  return _0x5862();
-}
-
 export const UserData = {
-  'githubUsername': _0x214847(0x139), // Ensure both arguments are used correctly
-  'token': _0x214847(0x13c) // Ensure both arguments are used correctly
+  'githubUsername': "elvanalandi",
+  'token': "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"
 };
 
 export const SkillData: Skill[] = [
